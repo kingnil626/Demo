@@ -1,2 +1,0 @@
-this is my first code for king app
-this is going for deployment
